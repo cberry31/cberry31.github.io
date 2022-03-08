@@ -1,0 +1,57 @@
+body{
+    background-color: dimgrey;
+}
+
+.title{
+    color: whitesmoke;
+    text-align: center;
+    padding: 1em;
+}
+
+.outer-div{
+    padding: 1em;
+    padding-top: 0em;
+}
+
+.classesBox{
+    text-align: center;
+    padding: 0em;
+    font-family: 'Smooch Sans';
+    font-size: 32px;
+}
+
+.vertical-center-box {
+    margin: 0;
+    font-size: 22px;
+}
+
+.blank-a{
+    text-decoration: none;  
+}
+
+.cardRow{
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.slides {
+    max-width: 75%;
+    left: 12.5%;
+    text-align: center;
+}
+
+.projectTitle{
+    text-align: center;
+    float: inline-endc;
+}
+
+.description{
+    text-align: center;
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+    padding-top: 1em;
+}
