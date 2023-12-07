@@ -1,21 +1,21 @@
-body{
+body {
     background-color: dimgrey;
     font-family: 'Smooch Sans';
     font-size: 150%;
 }
 
-.title{
+.title {
     color: whitesmoke;
     text-align: center;
     padding: 1em;
 }
 
-.outer-div{
+.outer-div {
     padding: 1em;
     padding-top: 0em;
 }
 
-.classesBox{
+.classesBox {
     text-align: center;
     padding: 0em;
     font-family: 'Smooch Sans';
@@ -27,13 +27,13 @@ body{
     font-size: 22px;
 }
 
-.blank-a{
+.blank-a {
     text-decoration: none !important;
-	color: inherit;
-	color: unset !important;
+    color: inherit;
+    color: unset !important;
 }
 
-.cardRow{
+.cardRow {
     max-width: 100% !important;
     overflow-x: hidden !important;
 }
@@ -48,27 +48,31 @@ body{
     text-align: center;
 }
 
-.projectTitle{
+.projectTitle {
     text-align: center;
     float: inline-endc;
+    color: whitesmoke;
 }
 
-.description{
+.description {
     text-align: center;
     padding-left: 12.5%;
     padding-right: 12.5%;
     padding-top: 1em;
 }
 
-.center{
+.center {
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
 
-.homepage{
-	text-align: center;
-	vertical-align: middle;
-	padding: 7.5%;
+.homepage {
+    text-align: center;
+    vertical-align: middle;
+    padding: 7.5%;
 }
 
+.text {
+    color: whitesmoke;
+}
